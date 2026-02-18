@@ -1,3 +1,3 @@
 Hello, Arigato
-Learning Git basics to practice
+github
 this is a github site
